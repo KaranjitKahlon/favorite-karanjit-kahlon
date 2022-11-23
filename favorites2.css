@@ -1,0 +1,39 @@
+h1{
+    background-color:rgb(71, 134, 234) ;
+    color:rgb(239, 218, 192);
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+h2{
+    color:rgb(91, 88, 249);
+    text-align: center;
+}
+div{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.fruits{
+    color: rgb(30, 162, 52);
+}
+.games{
+    color:crimson
+}
+.pineapple-pic{
+    height:250px;
+    width:200px;
+}
+.mango-pic{
+    height:250px;
+}
+.apex{
+    height:250px;
+}
+.sea-thieves{
+    height:250px;
+}
+body{
+    background-color: rgb(186, 234, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
